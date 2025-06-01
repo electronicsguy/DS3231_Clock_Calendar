@@ -1,5 +1,5 @@
-Clock and Calendar Display 
-with DS3231 RTC Module & SH1106 OLED Display
+# Clock and Calendar Display 
+## with DS3231 RTC Module & SH1106 OLED Display
 
 
 This project shows you how to use a real-time clock (RTC) module alongwith an OLED Display to display the current time and calendar.
@@ -10,4 +10,8 @@ The project is derived from 2 amazing projects as described below:
 
 2. https://github.com/kriswiner/DS3231RTC/blob/master/DS3231RTCBasicExample.ino
 
+It will show all the information obtained from the RTC module:
+1. Current time, day, date
+2. Temperature, aging offset
 
+<img src="https://github.com/user-attachments/assets/91dbe025-3a78-4396-b1f2-0fae922f0c60" alt="OLED_Clock" width="300" height="200">
