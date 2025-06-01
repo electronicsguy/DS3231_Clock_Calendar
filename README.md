@@ -15,3 +15,12 @@ It will show all the information obtained from the RTC module:
 2. Temperature, aging offset
 
 <img src="https://github.com/user-attachments/assets/91dbe025-3a78-4396-b1f2-0fae922f0c60" alt="OLED_Clock" width="300" height="200">
+
+<img src="https://github.com/user-attachments/assets/26445455-43a6-483b-972e-78a1884d6538" alt="OLED_Clock" width="300" height="200">
+
+<img src="https://github.com/user-attachments/assets/7cc04396-6c7a-418c-a97b-4d5153a2cd34" alt="OLED_Clock" width="300" height="200">
+
+<img src="https://github.com/user-attachments/assets/05242d7d-f263-474a-82d3-19688d15b958" alt="OLED_Clock" width="300" height="200">
+
+<img src="https://github.com/user-attachments/assets/6a0a2945-1870-4927-896a-1fec4b9a5fe7" alt="OLED_Clock" width="300" height="200">
+
